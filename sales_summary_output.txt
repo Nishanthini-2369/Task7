@@ -1,0 +1,5 @@
+Sales Summary:
+product  total_qty  revenue
+  Apple         17     34.0
+ Banana          8      8.0
+ Orange          8     12.0
